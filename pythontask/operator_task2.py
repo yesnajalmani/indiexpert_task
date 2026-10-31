@@ -1,0 +1,10 @@
+
+a=int(input("enter 1st num : "))
+b=int(input("enter 2nd num : "))
+print("sum number:",a+b)
+print("diff:",a-b)
+print("multi:",a*b)
+print("divide:",a/b)
+print("floor division:",a//b)
+print("Modulo:",a%b)
+print(" Exponentiation:",a**b)
